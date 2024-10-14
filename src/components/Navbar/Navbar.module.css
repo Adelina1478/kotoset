@@ -1,0 +1,24 @@
+
+.nav{
+    padding: 30px;
+    padding-top: 60px;
+    grid-area: n;
+    background-color: rgba(159, 165, 240, 0.76);
+    height: 790px;
+    width: 100px;
+
+}
+.item{
+    padding: 5px;
+}
+.item a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: Cambria;
+
+}
+.item a:active,
+.item a:focus{
+    color:blue;
+}

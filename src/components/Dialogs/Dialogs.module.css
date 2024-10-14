@@ -1,0 +1,25 @@
+.dialogs{
+    display:grid;
+    grid-template-columns: 2fr 10fr;
+
+}
+.dialog {
+    padding: 10px;
+    color:black;
+
+}
+.dialogItem{
+    color:white;
+}
+.messages{
+    padding: 10px;
+
+}
+
+.message{
+    color: white;
+
+}
+.send{
+    padding-left: 500px;
+}

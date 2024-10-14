@@ -1,0 +1,17 @@
+.description{
+    padding:10px
+}
+.img img{
+    width: 1100px;
+    height: 90px;
+}
+.mainphoto{
+    max-height: 150px;
+    max-width: 150px;
+}
+.contact{
+    padding-left: 10px;}
+.error {
+    color: red;
+
+}

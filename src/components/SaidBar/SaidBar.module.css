@@ -1,0 +1,26 @@
+.said{
+    display:grid;
+    grid-template-areas:"n n";
+    grid-template-columns: 2fr 10fr;
+    grid-column-gap:20px;
+    padding-top: 20px;
+    padding: 0 auto;
+    
+}
+.fr {
+    color:white;
+    margin-top: 200px;
+    font-size: 20px;
+    font-family: Cambria;
+    padding: 0 auto;
+}
+.name{
+    color:blue;
+    font-size: 80%;
+    padding-top:10px;
+
+}
+.name img{
+    width: 40px;
+    height: 40px;
+}
