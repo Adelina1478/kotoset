@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/kotoset/static/css/main.1a001040.css",
+    "main.css": "/kotoset/static/css/main.d2ed0047.css",
     "main.js": "/kotoset/static/js/main.00d1e22c.js",
     "static/css/432.8189f08a.chunk.css": "/kotoset/static/css/432.8189f08a.chunk.css",
     "static/js/432.10927932.chunk.js": "/kotoset/static/js/432.10927932.chunk.js",
@@ -15,7 +15,7 @@
     "static/media/ava.jpg": "/kotoset/static/media/ava.7fdc4cb7e22d0927340b.jpg",
     "static/media/loading.svg": "/kotoset/static/media/loading.31d55647cfe15e4c0ffdb2f1ba071a97.svg",
     "index.html": "/kotoset/index.html",
-    "main.1a001040.css.map": "/kotoset/static/css/main.1a001040.css.map",
+    "main.d2ed0047.css.map": "/kotoset/static/css/main.d2ed0047.css.map",
     "main.00d1e22c.js.map": "/kotoset/static/js/main.00d1e22c.js.map",
     "432.8189f08a.chunk.css.map": "/kotoset/static/css/432.8189f08a.chunk.css.map",
     "432.10927932.chunk.js.map": "/kotoset/static/js/432.10927932.chunk.js.map",
@@ -29,7 +29,7 @@
     "899.f4d72565.chunk.js.map": "/kotoset/static/js/899.f4d72565.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1a001040.css",
+    "static/css/main.d2ed0047.css",
     "static/js/main.00d1e22c.js"
   ]
 }
