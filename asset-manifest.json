@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/kotoset/static/css/main.54b2e3ae.css",
-    "main.js": "/kotoset/static/js/main.39ca1be3.js",
+    "main.css": "/kotoset/static/css/main.033c83cd.css",
+    "main.js": "/kotoset/static/js/main.6722feb9.js",
     "static/css/432.8189f08a.chunk.css": "/kotoset/static/css/432.8189f08a.chunk.css",
     "static/js/432.10927932.chunk.js": "/kotoset/static/js/432.10927932.chunk.js",
     "static/css/569.90e758dc.chunk.css": "/kotoset/static/css/569.90e758dc.chunk.css",
     "static/js/569.6980639b.chunk.js": "/kotoset/static/js/569.6980639b.chunk.js",
-    "static/js/654.8a28e22c.chunk.js": "/kotoset/static/js/654.8a28e22c.chunk.js",
+    "static/js/654.51a31fc0.chunk.js": "/kotoset/static/js/654.51a31fc0.chunk.js",
     "static/css/160.2e3fc2ea.chunk.css": "/kotoset/static/css/160.2e3fc2ea.chunk.css",
     "static/js/160.9f837d41.chunk.js": "/kotoset/static/js/160.9f837d41.chunk.js",
     "static/js/453.88e728f4.chunk.js": "/kotoset/static/js/453.88e728f4.chunk.js",
@@ -15,13 +15,13 @@
     "static/media/ava.jpg": "/kotoset/static/media/ava.7fdc4cb7e22d0927340b.jpg",
     "static/media/loading.svg": "/kotoset/static/media/loading.31d55647cfe15e4c0ffdb2f1ba071a97.svg",
     "index.html": "/kotoset/index.html",
-    "main.54b2e3ae.css.map": "/kotoset/static/css/main.54b2e3ae.css.map",
-    "main.39ca1be3.js.map": "/kotoset/static/js/main.39ca1be3.js.map",
+    "main.033c83cd.css.map": "/kotoset/static/css/main.033c83cd.css.map",
+    "main.6722feb9.js.map": "/kotoset/static/js/main.6722feb9.js.map",
     "432.8189f08a.chunk.css.map": "/kotoset/static/css/432.8189f08a.chunk.css.map",
     "432.10927932.chunk.js.map": "/kotoset/static/js/432.10927932.chunk.js.map",
     "569.90e758dc.chunk.css.map": "/kotoset/static/css/569.90e758dc.chunk.css.map",
     "569.6980639b.chunk.js.map": "/kotoset/static/js/569.6980639b.chunk.js.map",
-    "654.8a28e22c.chunk.js.map": "/kotoset/static/js/654.8a28e22c.chunk.js.map",
+    "654.51a31fc0.chunk.js.map": "/kotoset/static/js/654.51a31fc0.chunk.js.map",
     "160.2e3fc2ea.chunk.css.map": "/kotoset/static/css/160.2e3fc2ea.chunk.css.map",
     "160.9f837d41.chunk.js.map": "/kotoset/static/js/160.9f837d41.chunk.js.map",
     "453.88e728f4.chunk.js.map": "/kotoset/static/js/453.88e728f4.chunk.js.map",
@@ -29,7 +29,7 @@
     "899.f4d72565.chunk.js.map": "/kotoset/static/js/899.f4d72565.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.54b2e3ae.css",
-    "static/js/main.39ca1be3.js"
+    "static/css/main.033c83cd.css",
+    "static/js/main.6722feb9.js"
   ]
 }
